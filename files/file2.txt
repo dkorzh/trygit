@@ -1,0 +1,2 @@
+my text in file 2
+some fix in file 2
